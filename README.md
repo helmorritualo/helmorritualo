@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helmor Ritualo</h1>
+<h1 align="center">Hi 👋, I'm Helmor</h1>
 <h3 align="center">Aspiring software developer with a growing skill set, primarily focused on backend technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helmorritualo&label=Profile%20views&color=0e75b6&style=flat" alt="helmorritualo" /> </p>
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Hono**
 
-- 💬 Ask me about **React, NodeJs(Hono)**
+- 💬 Ask me about **NodeJs(Hono)**
 
 - 📫 How to reach me **helmorritualo@gmail.com**
 
-- ⚡ Fun fact **I am Shy**
+- ⚡ Fun fact **I am shy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
