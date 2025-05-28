@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **NodeJs(Hono)**
 
-- 📫 How to reach me **helmorritualo@gmail.com**
-
 - ⚡ Fun fact **I am shy**
 
 <h3 align="left">Connect with me:</h3>
