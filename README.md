@@ -15,7 +15,7 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
 
 - 💬 Ask me about **NodeJs(Hono)**
 
-- ⚡ Fun fact **I love building side projects that challenge my logic and problem-solving skills. Coding is not just a job for me – it's a passion!**
+- ⚡ Fun fact **I love building side projects that challenge my logic and problem-solving skills. Coding is not just for a job – it's a passion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
