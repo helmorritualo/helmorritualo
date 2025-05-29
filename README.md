@@ -69,4 +69,6 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
 ### Servers & Web  
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
 
+---
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmorritualo&show_icons=true&locale=en" alt="helmorritualo" /></p>
