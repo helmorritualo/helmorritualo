@@ -2,14 +2,14 @@
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
+---
+
 #### 🧑‍💻 About Me
 I'm a passionate and dedicated **software developer in the making**, constantly exploring the world of technology with curiosity and drive. I enjoy turning ideas into functional software, especially on the backend side of things — where logic, structure, and performance meet.
 
 💻 **Aspiring Software Developer** with a strong interest in backend development and a commitment to continuous learning. Focused on building reliable, maintainable, and scalable applications using modern web technologies.
 
 ---
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Hono**
 
