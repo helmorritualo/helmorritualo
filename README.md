@@ -6,6 +6,7 @@
 
 #### 🧑‍💻 About Me
 I'm a passionate and dedicated **software developer in the making**, constantly exploring the world of technology with curiosity and drive. I enjoy turning ideas into functional software, especially on the backend side of things — where logic, structure, and performance meet.
+
 ---
 
 - 🌱 I’m currently learning **Hono and Express**
