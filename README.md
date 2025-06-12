@@ -2,12 +2,9 @@
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
----
-
-#### 🧑‍💻 About Me
+<h3 align="left">🧑‍💻 About Me</h3>
 I'm a passionate and dedicated **software developer in the making**, constantly exploring the world of technology with curiosity and drive. I enjoy turning ideas into functional software, especially on the backend side of things — where logic, structure, and performance meet.
 
----
 
 - 🌱 I’m currently learning **Hono and Express**
 
@@ -22,7 +19,10 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
 <a href="https://instagram.com/hndakoikaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hndakoikaw" height="30" width="40" /></a>
 </p>
 
+---
+
 <h2>🖥️ Tech Stack:</h2>
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -56,8 +56,6 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
   </tr>
 </table>
 
----
-
 ### 🧰 Runtime & Package Managers
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -65,15 +63,11 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black">
 </p>
 
----
-
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
----
 
 ### ⚙️ Dev Tools & Platforms
 <p>
@@ -84,14 +78,8 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="24" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC&color=007ACC">
-  </p>
-
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white&labelColor=007ACC&color=007ACC">
 </p>
-
----
 
 ### 🌐 Servers & Web
 <p>
