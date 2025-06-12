@@ -8,7 +8,7 @@ I'm a passionate and dedicated **software developer in the making**, constantly 
 
 - 🌱 I’m currently learning **Hono and Express**
 
-- - 📫 How to reach me **helmorritualo@gmail.com**
+- 📫 How to reach me **helmorritualo@gmail.com**
 
 - ⚡ Fun fact **I love building side projects that challenge my logic and problem-solving skills. Coding is not just for a job – it's a passion!**
 
