@@ -1,106 +1,158 @@
-# Hi, I'm Helmor 👋
+<h1 align="left">Hi, I'm Helmor 👋</h1>
 
-**IT student · Software Developer · Backend & Full-Stack Development**
+<p align="left">
+  <strong>IT Student · Software Developer · Backend & Full-Stack Development</strong>
+</p>
 
-I build practical software and enjoy working across backend systems, APIs, full-stack applications, developer tooling, and AI-assisted development.
+<p align="left">
+  I build practical software with a focus on backend systems, APIs,
+  full-stack applications, developer tooling, and AI-assisted development.
+</p>
 
-I'm particularly interested in writing software that is **maintainable, secure, testable, and easy to evolve**.
+<p align="left">
+  I care about maintainability, security, testing, and clean software architecture.
+</p>
 
----
-
-## What I Work With
-
-### Languages
-
-`TypeScript` `JavaScript` `PHP` `C#` `SQL` `HTML` `CSS`
-
-### Backend
-
-`Laravel` `Hono` `Express` `Node.js` `Bun`
-
-### Frontend
-
-`React` `TanStack` `Vite` `Tailwind CSS` `shadcn/ui`
-
-### Databases
-
-`SQLite` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Turso`
-
-### ORM & Data
-
-`Drizzle ORM` `Composer`
-
-### Game & Mobile
-
-`Unity` `C#` `Flutter`
+<p align="left">
+  <a href="mailto:helmorritualo@gmail.com">Email</a> ·
+</p>
 
 ---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Languages</strong><br><br>
+      <code>TypeScript</code>
+      <code>JavaScript</code>
+      <code>PHP</code>
+      <code>C#</code>
+      <code>SQL</code>
+      <code>HTML</code>
+      <code>CSS</code>
+      <code>Dart</code>
+      <code>Java</code>
+      <code>Python</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Backend</strong><br><br>
+      <code>Laravel</code>
+      <code>Hono</code>
+      <code>Express</code>
+      <code>Node.js</code>
+      <code>Bun</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Frontend</strong><br><br>
+      <code>React</code>
+      <code>TanStack</code>
+      <code>Vite</code>
+      <code>Tailwind CSS</code>
+      <code>shadcn/ui</code>
+    </td>
+    <td valign="top">
+      <strong>Databases</strong><br><br>
+      <code>SQLite</code>
+      <code>MySQL</code>
+      <code>PostgreSQL</code>
+      <code>MongoDB</code>
+      <code>Redis</code>
+      <code>Drizzle ORM</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Game & Mobile</strong><br><br>
+      <code>Unity</code>
+      <code>C#</code>
+      <code>Flutter</code>
+    </td>
+    <td valign="top">
+      <strong>Developer Tools</strong><br><br>
+      <code>Git</code>
+      <code>GitHub</code>
+      <code>GitHub CLI</code>
+      <code>Postman</code>
+      <code>ESLint</code>
+      <code>Prettier</code>
+      <code>Oxc</code>
+    </td>
+  </tr>
+</table>
 
 ## Development Workflow
 
-### Editors
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Editors</strong><br><br>
+      <b>Primary</b><br>
+      <code>Zed</code><br><br>
+      <b>Secondary</b><br>
+      <code>Neovim</code><br>
+      <code>VS Code</code>
+    </td>
+    <td valign="top" width="33%">
+      <strong>AI Coding</strong><br><br>
+      <b>Primary</b><br>
+      <code>Cursor</code><br><br>
+      <b>Secondary</b><br>
+      <code>OpenCode</code><br>
+      <code>Codex</code>
+    </td>
+    <td valign="top" width="33%">
+      <strong>Environment</strong><br><br>
+      <code>EnvKit</code><br><br>
+      Local development environment for managing my development stack and services.
+    </td>
+  </tr>
+</table>
 
-**Primary:** Zed
+## Infrastructure
 
-**Secondary:** Neovim · VS Code
-
-### AI Coding Agents
-
-**Primary:** Cursor
-
-**Secondary:** OpenCode · Codex
-
-### Development Environment
-
-**EnvKit**
-
-### Developer Tools
-
-`Git` `GitHub` `GitHub CLI` `Postman` `ESLint` `Prettier` `PowerShell`
-
-### Infrastructure
-
-`Docker` `Apache` `Nginx` `Railway` `Render`
-
----
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Development</strong><br><br>
+      <code>Docker</code>
+      <code>GitHub Codespaces</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Deployment & Web</strong><br><br>
+      <code>Laravel Cloud</code>
+      <code>Apache</code>
+      <code>Nginx</code>
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
-- Backend and API development
-- Full-stack application architecture
-- TypeScript ecosystems
-- Laravel and modern PHP development
-- Developer tooling and automation
-- AI-assisted software engineering
-- Maintainable and secure software design
-- Game and mobile development
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Software Engineering</strong><br><br>
+      Backend & API development<br>
+      Full-stack applications<br>
+      Software architecture<br>
+      Developer tooling & automation
+    </td>
+    <td valign="top" width="50%">
+      <strong>Areas of Interest</strong><br><br>
+      AI-assisted development<br>
+      Application security<br>
+      Game development<br>
+      Mobile development
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Selected Interests
-
-I'm interested in building systems that combine good engineering practices with practical user needs.
-
-Some areas I regularly explore include:
-
-- Web applications and REST APIs
-- Educational software and games
-- Local development environments
-- Database design and data management
-- Authentication and application security
-- CI/CD and deployment
-- AI-assisted development workflows
-- Software architecture and code quality
-
----
-
-## Connect
-
-- **Email:** [helmorritualo@gmail.com](mailto:helmorritualo@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ritualo-helmor10](https://linkedin.com/in/ritualo-helmor10)
-- **Facebook:** [facebook.com/helmorkillerz5](https://facebook.com/helmorkillerz5)
-- **Instagram:** [instagram.com/hndakoikaw](https://instagram.com/hndakoikaw)
-
----
-
-> Build things. Understand how they work. Improve them.
+<p align="center">
+  <sub>Build things · Understand them · Improve them</sub>
+</p>
