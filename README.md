@@ -16,8 +16,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:helmorritualo@gmail.com">Email</a> .
-  <a href="https://www.facebook.com/helmorkillerz5/">Facebook</a> .
+  <a href="mailto:helmorritualo@gmail.com">Email</a> ·
+  <a href="https://www.facebook.com/helmorkillerz5/">Facebook</a> ·
   <a href="https://github.com/helmordev">Second GitHub</a>
 </p>
 
@@ -25,7 +25,7 @@
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 <strong>Languages</strong><br>
@@ -62,19 +62,19 @@
 
 ## Development Workflow
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33.33%">
 <strong>Editors</strong><br>
 <b>Primary:</b> <code>Zed</code><br>
 <b>Secondary:</b> <code>Neovim</code> · <code>VS Code</code>
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33.33%">
 <strong>AI Coding</strong><br>
 <b>Primary:</b> <code>Cursor</code><br>
 <b>Secondary:</b> <code>OpenCode</code> · <code>Codex</code>
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="33.33%">
 <strong>Environment</strong><br>
 <code>EnvKit</code><br>
 Local development environment
@@ -84,11 +84,11 @@ Local development environment
 
 ## Infrastructure
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 <strong>Development</strong><br>
-<code>Docker</code>
+<code>Docker</code> <code>VPS</code>
 </td>
 <td valign="top" width="50%">
 <strong>Deployment & Web</strong><br>
@@ -99,23 +99,26 @@ Local development environment
 
 ## Current Focus
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 <strong>Software Engineering</strong><br>
-Backend & API development<br>
-Full-stack applications<br>
-Software architecture<br>
-Developer tooling & automation
+<ul>
+<li>Backend & API development</li>
+<li>Full-stack applications</li>
+<li>Software architecture</li>
+<li>Developer tooling & automation</li>
+</ul>
 </td>
 <td valign="top" width="50%">
 <strong>Areas of Interest</strong><br>
-AI-assisted development<br>
-Application security<br>
-Game development<br>
-Mobile development<br>
-Advance Software Engineering topics<br>
-VPS
+<ul>
+<li>AI-assisted development</li>
+<li>Application security</li>
+<li>Game development</li>
+<li>Mobile development</li>
+<li>Advanced Software Engineering</li>
+</ul>
 </td>
 </tr>
 </table>
