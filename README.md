@@ -16,8 +16,8 @@
 </p>
 
 <p align="left">
-  <a href="mailto:helmorritualo@gmail.com">Email</a><br>
-  <a href="https://www.facebook.com/helmorkillerz5/">Facebook</a>
+  <a href="mailto:helmorritualo@gmail.com">Email</a> .
+  <a href="https://www.facebook.com/helmorkillerz5/">Facebook</a> .
   <a href="https://github.com/helmordev">Second GitHub</a>
 </p>
 
