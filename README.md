@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  I build practical software with a focus on backend systems, APIs,
+  I build software with a focus on backend systems, APIs,
   full-stack applications, developer tooling, and AI-assisted development.
 </p>
 
