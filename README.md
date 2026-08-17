@@ -85,7 +85,17 @@ Modern backend architecture, TypeScript ecosystems, AI-assisted development work
 
 ## GitHub
 
+## GitHub
+
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=helmorritualo&show_icons=true&hide_border=true&rank_icon=github" alt="Helmor's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmorritualo&layout=compact&hide_border=true" alt="Helmor's most used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=helmorritualo&show_icons=true&hide_border=true"
+    alt="Helmor's GitHub statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmorritualo&layout=compact&hide_border=true"
+    alt="Helmor's most used languages"
+    height="165"
+  />
 </p>
