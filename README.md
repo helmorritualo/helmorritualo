@@ -1,101 +1,106 @@
-<h1 align="left">Hi, I'm Helmor. 👋</h1>
+# Hi, I'm Helmor 👋
 
-<p align="left">
-  Software developer focused on backend systems, full-stack applications, developer tooling, and AI-assisted development.
-</p>
+**IT student · Software Developer · Backend & Full-Stack Development**
 
-<p align="left">
-  I enjoy turning ideas into maintainable software, exploring new technologies, and building projects that solve practical problems.
-</p>
+I build practical software and enjoy working across backend systems, APIs, full-stack applications, developer tooling, and AI-assisted development.
 
-<p align="left">
-  <a href="https://linkedin.com/in/ritualo-helmor10">LinkedIn</a> ·
-  <a href="https://github.com/helmorritualo">GitHub</a> ·
-  <a href="mailto:helmorritualo@gmail.com">Email</a>
-</p>
+I'm particularly interested in writing software that is **maintainable, secure, testable, and easy to evolve**.
 
 ---
 
-## Focus
+## What I Work With
 
-* Backend & API development
-* Full-stack web applications
-* Software architecture & maintainability
-* Developer tooling and automation
-* AI-assisted software engineering
-* Game and mobile development
-
----
-
-## Tech
-
-**Languages**
+### Languages
 
 `TypeScript` `JavaScript` `PHP` `C#` `SQL` `HTML` `CSS`
 
-**Backend**
+### Backend
 
 `Laravel` `Hono` `Express` `Node.js` `Bun`
 
-**Frontend**
+### Frontend
 
 `React` `TanStack` `Vite` `Tailwind CSS` `shadcn/ui`
 
-**Data**
+### Databases
 
-`SQLite` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Turso` `Drizzle ORM`
+`SQLite` `MySQL` `PostgreSQL` `MongoDB` `Redis` `Turso`
 
-**Game & Mobile**
+### ORM & Data
+
+`Drizzle ORM` `Composer`
+
+### Game & Mobile
 
 `Unity` `C#` `Flutter`
 
 ---
 
-## Development Environment
+## Development Workflow
 
-**Editor**
+### Editors
 
-`Zed` — primary
-`Neovim` · `VS Code` — secondary
+**Primary:** Zed
 
-**AI Coding**
+**Secondary:** Neovim · VS Code
 
-`Cursor` — primary
-`OpenCode` · `Codex` — secondary
+### AI Coding Agents
 
-**Environment**
+**Primary:** Cursor
 
-`EnvKit`
+**Secondary:** OpenCode · Codex
 
-**Tooling**
+### Development Environment
 
-`Git` `GitHub` `GitHub CLI` `Postman` `ESLint` `Prettier`
+**EnvKit**
 
-**Infrastructure**
+### Developer Tools
+
+`Git` `GitHub` `GitHub CLI` `Postman` `ESLint` `Prettier` `PowerShell`
+
+### Infrastructure
 
 `Docker` `Apache` `Nginx` `Railway` `Render`
 
 ---
 
-## Currently Exploring
+## Current Focus
 
-Modern backend architecture, TypeScript ecosystems, AI-assisted development workflows, and better approaches to building maintainable software.
+- Backend and API development
+- Full-stack application architecture
+- TypeScript ecosystems
+- Laravel and modern PHP development
+- Developer tooling and automation
+- AI-assisted software engineering
+- Maintainable and secure software design
+- Game and mobile development
 
 ---
 
-## GitHub
+## Selected Interests
 
-## GitHub
+I'm interested in building systems that combine good engineering practices with practical user needs.
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=helmorritualo&show_icons=true&hide_border=true"
-    alt="Helmor's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=helmorritualo&layout=compact&hide_border=true"
-    alt="Helmor's most used languages"
-    height="165"
-  />
-</p>
+Some areas I regularly explore include:
+
+- Web applications and REST APIs
+- Educational software and games
+- Local development environments
+- Database design and data management
+- Authentication and application security
+- CI/CD and deployment
+- AI-assisted development workflows
+- Software architecture and code quality
+
+---
+
+## Connect
+
+- **Email:** [helmorritualo@gmail.com](mailto:helmorritualo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ritualo-helmor10](https://linkedin.com/in/ritualo-helmor10)
+- **Facebook:** [facebook.com/helmorkillerz5](https://facebook.com/helmorkillerz5)
+- **Instagram:** [instagram.com/hndakoikaw](https://instagram.com/hndakoikaw)
+
+---
+
+> Build things. Understand how they work. Improve them.
